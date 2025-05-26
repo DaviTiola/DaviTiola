@@ -24,8 +24,8 @@
 | 💻 **Linguagens** / Languages | Java, JavaScript, TypeScript, HTML, CSS |
 | ⚙️ **Backend** | Spring Boot, Node.js, Maven, Docker |
 | 🎨 **Frontend** | React, Angular, Bootstrap |
-| 🗄️ **Banco de Dados** / Databases | MySQL, MongoDB |
-| 🔧 **Ferramentas** / Tools | Git, GitHub, VSCode, Postman |
+| 🗄️ **Banco de Dados** / Databases | MySQL, MongoDB, H2 |
+| 🔧 **Ferramentas** / Tools | Git, GitHub, VSCode, Postman, IntelliJ |
 | 🧠 **Lógica & Algoritmos** | LeetCode (resolução diária de desafios) |
 
 ---
